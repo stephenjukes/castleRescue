@@ -1,6 +1,6 @@
 # castle rescue
 
-Play at: https://repl.it/CJKF/2
+<a href="https://repl.it/CJKF/2">Play here</a>
 
 Enter the castle, collect items and use them to rescue your friend. A small Zork-like game.
 
